@@ -41,9 +41,20 @@ In the Discord Dev Portal, you add a Icon for your Application. This Icon got of
 
 In Line 66 you write the name where:
 > "PLACE_IMAGE_HERE"
+
+
 Between the ("")
 
 
 ## Applying it to the Game
 This script just has to be in the game and loaded when in playmode.
 The can be done by making it a component of the Player or the game manager
+
+
+
+
+### Credits
+[Devid Dondorf](https://github.com/Dyspor)
+
+
+[Magnus Cochems](https://github.com/cochemsm)
